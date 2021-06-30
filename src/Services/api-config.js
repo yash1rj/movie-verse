@@ -1,0 +1,2 @@
+export const searchUrl = "https://api.themoviedb.org/3/search/movie?api_key=e42b9de75fb459fa9304c4b61b9f2a9a&include_adult=false&query=";
+export const movieUrl = "https://api.themoviedb.org/3/movie/popular?api_key=e42b9de75fb459fa9304c4b61b9f2a9a&language=en-US";
