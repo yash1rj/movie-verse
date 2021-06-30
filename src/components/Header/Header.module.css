@@ -1,0 +1,18 @@
+.Header {
+    display: flex;
+    padding: 1rem;
+    justify-content: space-around;
+}
+
+.Header h2 {
+    display: contents;
+    cursor: pointer;
+    color: blanchedalmond;
+}
+
+.SearchBar {
+    min-width: 280px;
+    border-radius: 50px;
+    border: 2px solid #474d9b;
+    color: #22254b;
+}
